@@ -65,23 +65,19 @@ This is an Arduino-based project that integrates a **TM1637 4-digit display**, a
    git clone https://github.com/queshyoda/bebsinator.git
    ```
 2. Open the code in **PlatformIO**.
+   
 3. Install required libraries:
    - `TM1637Display`
    - `IRremote`
+
 4. Connect your hardware as per the wiring diagram.
 ![solder](https://github.com/user-attachments/assets/525720d6-990f-443e-9b03-173625927811)
 
-
 5. Solder all components as given in the wiring diagram.
-     
 ![soldering_pattern ](https://github.com/user-attachments/assets/a033a326-e260-4c95-b9f6-1a38e3ccd1c9)
 
-7. Upload the code to your Arduino board.
-
+6. Upload the code to your Arduino board.
 ![final ](https://github.com/user-attachments/assets/7a701929-b87f-4c9a-8f2b-300c91b16481)
-
-## Contributions
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
 ## Author
 [Baha Demirtaş](https://github.com/queshyoda)
