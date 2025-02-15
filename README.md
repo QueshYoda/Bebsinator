@@ -62,7 +62,7 @@ This is an Arduino-based project that integrates a **TM1637 4-digit display**, a
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/queshyoda/bebsinator.git
+   git clone https://github.com/QueshYoda/Bebsinator.git
    ```
 2. Open the code in **PlatformIO**.
    
