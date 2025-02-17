@@ -79,6 +79,10 @@ This is an Arduino-based project that integrates a **TM1637 4-digit display**, a
 6. Upload the code to your Arduino board.
 ![final ](https://github.com/user-attachments/assets/7a701929-b87f-4c9a-8f2b-300c91b16481)
 
+7. Final product at the shelf.
+![lighted](https://github.com/user-attachments/assets/9c389926-aa5c-4d99-b7ef-4c18f4233149)
+
+
 ## Author
 [Baha Demirtaş](https://github.com/queshyoda)
 
